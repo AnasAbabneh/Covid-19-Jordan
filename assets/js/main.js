@@ -21,7 +21,7 @@
         }
 
         if ($(this).attr("href") == '#header') {
-          scrollto = 0;
+          scrollto = 0; 
         }
 
         $('html, body').animate({
